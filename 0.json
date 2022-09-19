@@ -378,7 +378,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lhb3lhay90dmxpdmUvbWFpbi9saXZlLnR4dA==
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3lhb3lhay90dmxpdmUvYmxvYi9tYWluL2xpdmUudHh0
 "
     ]}]}],
      "parses": [
