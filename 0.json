@@ -378,7 +378,8 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9rdXVrZXkvYS8tL3Jhdy9tYXN0ZXIvdHZsaXZlLnR4dA=="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3lhb3lhay90dmxpdmUvYmxvYi9tYWluL2xpdmUudHh0
+"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -644,5 +645,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"
+       "spider":"https://github.com/yaoyak/tvlive/blob/main/cs.jar"
 }
